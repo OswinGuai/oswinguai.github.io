@@ -15,14 +15,14 @@ The core challenge I address is: **How can we systematically engineer AI technol
 
 My research program is organized along three interconnected directions:
 
-1. **AI Engineering — From Models to Systems**
-   Developing systematic methodologies for requirements engineering, development orchestration, and quality assurance of AI-powered software. This includes interpretable requirements analysis for ML applications, efficient hyperparameter optimization frameworks, and agile development paradigms tailored for industrial AI software.
-
-2. **Industrial Time Series Intelligence — From Data to Decisions**
+1. **Industrial Time Series Intelligence — From Data to Decisions**
    Building foundation models and specialized algorithms for time series understanding, forecasting, and anomaly detection in industrial settings. This encompasses multimodal time series modeling, exogenous variable integration, domain-adaptive transfer learning, and retrieval-augmented generation for time series analysis.
 
-3. **Trustworthy Industrial AI — From Lab to Field**
-   Ensuring AI systems operate reliably under real-world uncertainty. This covers out-of-distribution detection for prognostics and health management, semi-supervised fault diagnosis for complex equipment, and domain adaptation techniques that enable knowledge transfer across industrial environments.
+2. **AI Engineering — From Models to Systems**
+   Developing systematic methodologies for requirements engineering, development orchestration, and quality assurance of AI-powered software. This includes interpretable requirements analysis for ML applications, efficient hyperparameter optimization frameworks, and agile development paradigms tailored for industrial AI software.
+
+3. **Generalizable Industrial AI — From Lab to Field**
+   Ensuring AI systems generalize reliably across diverse real-world industrial environments. This covers out-of-distribution detection for prognostics and health management, semi-supervised fault diagnosis for complex equipment, and domain adaptation techniques that enable knowledge transfer across industrial environments.
 
 Representative Achievements
 ======
@@ -39,7 +39,7 @@ Representative Achievements
 - *Requirements Engineering for ML* (AIRE 2022): Comprehensive review and reflection on RE practices for machine learning applications
 - *Interpretable Requirements Analysis for ML* (JCRD 2024): Framework for explainability requirements analysis in ML applications — CCF-A Chinese journal
 
-**Trustworthy Industrial Intelligence**
+**Generalizable Industrial Intelligence**
 - *Semi-supervised Fault Diagnosis* (Information Sciences 2023): Adversarial discriminative learning for intelligent wind turbine fault diagnosis — JCR Q1
 - *Unified OOD Detection* (EAAI 2023): Out-of-distribution detection framework for trustworthy prognostics in renewable energy — JCR Q1
 - *Multi-Adversarial Domain Adaptation* (AAAI 2018): Multi-source domain adaptation for cross-environment knowledge transfer — CCF-A

@@ -39,9 +39,9 @@ Research Projects
 
 Research Interests
 ======
-* AI Engineering — Requirements engineering, hyperparameter optimization, agile development for ML applications
 * Industrial Time Series Intelligence — Foundation models, multimodal modeling, exogenous integration, domain adaptation
-* Trustworthy Industrial AI — OOD detection, fault diagnosis, domain adaptation for prognostics and health management
+* AI Engineering — Requirements engineering, hyperparameter optimization, agile development for ML applications
+* Generalizable Industrial AI — OOD detection, fault diagnosis, domain adaptation for prognostics and health management
 
 Publications
 ======
@@ -51,5 +51,4 @@ Publications
 
 Service and Leadership
 ======
-* Reviewer for KDD, AAAI, ICML, ICLR, ACM MM, ICDE
-* Technical committee member for industrial AI standardization
+* Reviewer for KDD, AAAI, ICML, ICLR, NeurIPS, and other top-tier AI conferences
