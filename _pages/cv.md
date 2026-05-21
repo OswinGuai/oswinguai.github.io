@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Software Engineering, School of Software, Tsinghua University, 2015–2020
+* M.S. in Software Engineering, School of Software, Dalian University of Technology, 2010–2012
+* B.S. in Software Engineering, School of Software, Dalian University of Technology, 2006–2010
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan 2023 – Present: Assistant Researcher
+  * School of Software, Tsinghua University
+  * Research in AI Engineering and Industrial Intelligence
+  * Leading and participating in multiple national research projects
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2020 – Jan 2023: Postdoctoral Researcher
+  * School of Software, Tsinghua University
+  * Research on industrial intelligent software development and time series analysis
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* Jul 2012 – Oct 2014: R&D Engineer
+  * Baidu Online Network Technology (Beijing) Co., Ltd.
+  * Software development and engineering
+
+Research Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **MIIT High-Quality Special Project**: Generative Decision-making Industrial Large Model for Manufacturing (2024–present, Core Technical Member)
+* **National Key R&D Program (Young Scientist)**: Agile Development Theory and Methods for Industrial Intelligent Software (2021–2024, Project Lead)
+* **Qiyuan Lab Innovation Project**: Low-code Intelligent Development Environment and Intelligent Library (2022–2024, Sub-task Lead)
+* **Sci-Tech Innovation 2030 — AI Major Project**: Adaptive Perception and Intelligent Scheduling for Manufacturing Tasks (2020–2023, Core Technical Member)
+
+Research Interests
+======
+* AI Engineering — Requirements engineering, hyperparameter optimization, agile development for ML applications
+* Industrial Time Series Intelligence — Foundation models, multimodal modeling, exogenous integration, domain adaptation
+* Trustworthy Industrial AI — OOD detection, fault diagnosis, domain adaptation for prognostics and health management
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Service and Leadership
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer for KDD, AAAI, ICML, ICLR, ACM MM, ICDE
+* Technical committee member for industrial AI standardization
