@@ -7,9 +7,20 @@ redirect_from:
   - /research.html
 ---
 
-My research focuses on the intersection of **AI Engineering** and **Industrial Intelligence**, aiming to bridge the gap between AI algorithmic advances and their systematic deployment in complex industrial scenarios. Below is a detailed overview of my three interconnected research directions.
+My research focuses on the intersection of **AI Engineering** and **Industrial Intelligence**, aiming to bridge the gap between AI algorithmic advances and their systematic deployment in complex industrial scenarios.
+
+<hr class="section-divider"/>
+
+<div class="vision-box">
+How can we systematically engineer AI technologies to deliver reliable, scalable, and generalizable value in complex industrial scenarios?
+</div>
+
+<hr class="section-divider"/>
 
 ## 1. Industrial Time Series Intelligence — From Data to Decisions
+
+<div class="research-card ts-intelligence">
+<div class="card-content">
 
 Industrial operations generate massive volumes of time series data from sensors, controllers, and operational logs. Making intelligent decisions from this data requires models that can handle multimodal signals, exogenous variables, domain shifts, and long-range temporal dependencies.
 
@@ -23,7 +34,13 @@ Industrial operations generate massive volumes of time series data from sensors,
 
 - **RAG for Time Series**: *Retrieval-Augmented Generation with Covariate Time Series* (KDD 2026, CCF-A) introduces a novel paradigm that retrieves relevant historical patterns and augments generation models with covariate context, opening new avenues for time series reasoning.
 
+</div>
+</div>
+
 ## 2. AI Engineering — From Models to Systems
+
+<div class="research-card ai-engineering">
+<div class="card-content">
 
 The rapid evolution of AI models has created an urgent need for engineering methodologies that can manage the full lifecycle of AI-powered software — from requirements specification through development, testing, and maintenance. Unlike traditional software, AI systems exhibit data-dependent behavior, non-deterministic outputs, and evolving performance, which demand fundamentally new engineering approaches.
 
@@ -35,7 +52,13 @@ The rapid evolution of AI models has created an urgent need for engineering meth
 
 - **Agile Development for Industrial AI**: As the project lead of the National Key R&D Program on "Agile Development Theory and Methods for Industrial Intelligent Software," I am developing methodologies that enable rapid iteration and reliable deployment of AI software in manufacturing environments.
 
+</div>
+</div>
+
 ## 3. Generalizable Industrial AI — From Lab to Field
+
+<div class="research-card generalizable-ai">
+<div class="card-content">
 
 Deploying AI in diverse industrial environments demands generalization across distribution shifts, reliability under uncertainty, and adaptability for cross-domain transfer. This direction focuses on ensuring that AI systems generalize reliably when they encounter real-world conditions that differ from training data.
 
@@ -47,16 +70,30 @@ Deploying AI in diverse industrial environments demands generalization across di
 
 - **Multi-Source Domain Adaptation**: *Multi-Adversarial Domain Adaptation* (AAAI 2018, CCF-A) enables knowledge transfer from multiple source domains simultaneously, addressing the common industrial scenario where data from several similar but distinct environments must be combined to improve target-domain performance.
 
----
+</div>
+</div>
+
+<hr class="section-divider"/>
 
 ## Research Roadmap
 
 Looking ahead, I am pursuing the convergence of these three directions:
 
-1. **Industrial Large Models**: Developing generative decision-making models for manufacturing that integrate time series foundation models with engineering process knowledge (MIIT High-Quality Special Project, 2024–present).
+<div class="project-card">
+<strong>1. Industrial Large Models</strong><br/>
+Developing generative decision-making models for manufacturing that integrate time series foundation models with engineering process knowledge (MIIT High-Quality Special Project, 2024–present).
+</div>
 
-2. **Low-Code AI Development**: Building intelligent development environments that automate the engineering lifecycle of industrial AI applications, from data preparation to model deployment (Qiyuan Lab Innovation Project, 2022–2024).
+<div class="project-card">
+<strong>2. Low-Code AI Development</strong><br/>
+Building intelligent development environments that automate the engineering lifecycle of industrial AI applications, from data preparation to model deployment (Qiyuan Lab Innovation Project, 2022–2024).
+</div>
 
-3. **Generalizable AI-by-Design**: Embedding generalization, robustness, and adaptability guarantees into the AI engineering process itself, rather than treating them as post-hoc verification steps.
+<div class="project-card">
+<strong>3. Generalizable AI-by-Design</strong><br/>
+Embedding generalization, robustness, and adaptability guarantees into the AI engineering process itself, rather than treating them as post-hoc verification steps.
+</div>
 
-The ultimate goal is a unified framework where **engineering rigor** ensures **industrial reliability**, and **domain intelligence** guides **engineering efficiency** — creating a virtuous cycle that accelerates the responsible adoption of AI in industry.
+<div class="vision-box">
+The ultimate goal is a unified framework where <strong>engineering rigor</strong> ensures <strong>industrial reliability</strong>, and <strong>domain intelligence</strong> guides <strong>engineering efficiency</strong> — creating a virtuous cycle that accelerates the responsible adoption of AI in industry.
+</div>
